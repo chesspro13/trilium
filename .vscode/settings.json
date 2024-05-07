@@ -1,6 +1,7 @@
 {
-  "editor.formatOnSave": true,
-  "prettier.tabWidth": 4,
-  "files.eol": "\n",
-  "typescript.tsdk": "node_modules/typescript/lib"
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.tabWidth": 4,
+    "files.eol": "\n",
+    "typescript.tsdk": "node_modules/typescript/lib"
 }
